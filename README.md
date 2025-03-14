@@ -7,7 +7,7 @@
 <div align="center">
 <h3>Discord Activity</h3>
    <a href="https://discord.com/users/1079394780292849714" target="_blank">
-      <img src="https://lanyard.kyrie25.me/api/1079394780292849714?waveColor=000000&waveSpotifyColor=202020&gradient=#000000&borderRadius=31px">
+      <img src="https://lanyard.cnrad.dev/api/1079394780292849714?theme=dark&hideProfile=false&hideStatus=false&showDisplayName=true&hideBadges=false">
    </a>
 </div>
 
