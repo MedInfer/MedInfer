@@ -62,7 +62,7 @@
 
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=black" />](https://discord.com/users/751396830331404298)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://aurinfer.com)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/asiaspectator)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/MedInferz)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/aurinferlabs)
 </p>
 
@@ -71,7 +71,7 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GoldRbxia12&theme=gruvbox&show_icons=true&hide_border=false" alt="MedInfer's Stats" height="165">
-  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldRbxia12&layout=compact&theme=gruvbox&show_icons=true&hide_border=false" alt="goldrbxia's Streak" height="165"> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=MedInfer&theme=gruvbox&show_icons=true&hide_border=false" alt="MedInfer's Stats" height="165">
+  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedInfer&layout=compact&theme=gruvbox&show_icons=true&hide_border=false" alt="MedInfer's Streak" height="165"> -->
   </p>
 </div>
